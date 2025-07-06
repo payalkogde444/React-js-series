@@ -1,0 +1,25 @@
+{
+  "name": "new-react-js-series",
+  "version": "1.0.0",
+  "description": "This is React series",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/payalkogde444/Food-Ordering-App)"
+  },
+  "keywords": [
+    "react",
+    "js"
+  ],
+  "author": "Payal Kogde",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
